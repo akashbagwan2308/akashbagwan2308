@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashbagwan2308&label=Profile%20views&color=0e75b6&style=flat" alt="akashbagwan2308" /> </p>
 
-- 🌱 I’m currently learning **Python, Data Structure and Algorthms**
+- 🌱 I’m currently learning **Python, Data Structure and Algorithms**
 
 - 💬 Ask me about **Electronics and Programming**
 
