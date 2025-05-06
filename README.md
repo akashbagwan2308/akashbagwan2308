@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Akash Bagwan</h1>
-<h3 align="center">A passionate developer/programmer from India</h3>
+<h3 align="center">A Design & Verification Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashbagwan2308&label=Profile%20views&color=0e75b6&style=flat" alt="akashbagwan2308" /> </p>
 
-- 🌱 I’m currently learning **Python, Data Structure and Algorithms**
+- 🌱 I’m currently learning **Digital Electronics, Verilog, System Verilog, UVM**
 
-- 💬 Ask me about **Electronics and Programming**
+- 💬 Ask me about **Electronics, Programming and Design-Verification**
 
 - 📫 How to reach me **akashbagwan01@gmail.com**
 
